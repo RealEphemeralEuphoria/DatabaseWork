@@ -1,16 +1,3 @@
 # DatabaseWork
 
-
-Hi 
-Hi2
-
-Hi3
-
-
-Yay auth works, now signing?
-
-Auth works, now signing #2?UHHHHHHHHHHHHHHHH
-
-Third time's the charm
-Fourth? Maybe?
-Ok fifth
+Yay things are working...Think twice about reformating, folks.
