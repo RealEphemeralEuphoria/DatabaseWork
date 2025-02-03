@@ -16,7 +16,7 @@ This project is designed to **self teach SQL, SQLite, and Markdown**. It include
 ---
 
 ## What is SQL, and what does it do?
-This project is how I will **self-teach the concept of DBMS(s?).**  
+This project is how I will **self-teach the concept of DBMS(s?) as well as key SQL methods.**  
 SQL (**Structured Query Language**) is a programming language used to **manage and manipulate relational databases**.  
 It allows users to **store, retrieve, update, and delete** data in a structured way.
 
@@ -176,7 +176,7 @@ WHERE name = 'Euphoria';
 ### Delete Data
 ```sql
 -- Removes a user from the table based on ID
-DELETE FROM users 
+DELETE FROM users ok ill
 WHERE id = 1;
 ```
 
@@ -209,6 +209,3 @@ FROM users;
 ```
 
 ---
-
-## License
-This project is licensed under the MIT License. See `LICENSE.md` for details.
